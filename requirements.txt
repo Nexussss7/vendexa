@@ -1,0 +1,30 @@
+# VENDEXA - Dependências Python
+
+# IA e Machine Learning
+google-generativeai>=0.3.0
+
+# Web Framework
+Flask>=3.0.0
+Flask-CORS>=4.0.0
+
+# Banco de Dados
+# SQLite já vem com Python, não precisa instalar
+
+# Utilitários
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Email
+# smtplib e email já vem com Python
+
+# Data e Hora
+python-dateutil>=2.8.2
+
+# JSON e Configurações
+# json já vem com Python
+
+# Opcional: Para melhor formatação de logs
+colorama>=0.4.6
+
+# Pagamentos
+stripe>=7.0.0

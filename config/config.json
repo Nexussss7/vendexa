@@ -1,0 +1,33 @@
+{
+    "sistema": {
+        "nome": "VENDEXA",
+        "versao": "1.0.0",
+        "email_contato": "ramonrodrigo2708@gmail.com",
+        "idioma_padrao": "pt-BR"
+    },
+    "ia": {
+        "modelo": "gemini-1.5-flash",
+        "temperatura": 0.7,
+        "max_tokens": 1000
+    },
+    "email": {
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "sender_email": "ramonrodrigo2708@gmail.com",
+        "sender_name": "VENDEXA"
+    },
+    "prospeccao": {
+        "score_minimo_qualificacao": 60,
+        "score_minimo_hot_lead": 70,
+        "dias_follow_up": [2, 5, 7]
+    },
+    "vendas": {
+        "moeda": "BRL",
+        "simbolo_moeda": "R$"
+    },
+    "automacao": {
+        "enviar_email_boas_vindas": true,
+        "enviar_follow_up_automatico": true,
+        "intervalo_follow_up_horas": 48
+    }
+}
