@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 VENDEXA - Sistema de Vendas Autônomo com IA
 
 ![VENDEXA Logo](https://img.shields.io/badge/VENDEXA-v1.0.0-blue)
@@ -256,3 +257,7 @@ MIT License - Você pode usar, modificar e distribuir livremente.
 
 **Desenvolvido com ❤️ por Ramon Rodrigo**  
 **VENDEXA - Vendas Inteligentes, Resultados Automáticos**
+=======
+# vendexa
+Sistema autônomo de vendas com IA - Prospecta, conversa e vende automaticamente
+>>>>>>> da6868331c2643544641ef47b34237ae187294b2
