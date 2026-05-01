@@ -343,4 +343,4 @@ def close_sales():
 
 # Para Vercel
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
